@@ -8,8 +8,11 @@ Ceknya disini[(https://ken-diva.github.io/vuevite-range-angka/)] (masi error)
 
 Kalau baru clone, jalanin
 - npm i
-- npm run dev
+- npm run dev (running local)
 
-note: ini belum pake css sama sekali. kedepannya mungkin ditambahin (ga janji tapi)
+note* 
+- ini belum pake css sama sekali. kedepannya mungkin ditambahin (ga janji tapi)
+- ketik ini untuk buat sub branch untuk keperluan deploy
+  - `git subtree push --prefix dist origin 'nama_branch'`
 
 -- 6 Maret 2022
